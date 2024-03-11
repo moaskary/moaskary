@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,git,github,Xcode,andriodStudio" /><br>
-    <img src="https://skillicons.dev/icons?i=java,javascript,swift,firebase,c" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,swift,firebase,c,python" /><br>
 </div>
 
 <br/>
