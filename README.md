@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=moaskary&show_icons=github&theme=github_dark&count_private=true"&alt="streak stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=moaskary&count_private=true&theme=react&border_radius=10" alt="streak stats" />
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=moaskary&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
