@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=moaskary&show_icons=github&theme=github_dark&count_private=true"&alt="streak stats" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
