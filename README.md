@@ -27,8 +27,6 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **Swift, SwiftUI**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
  </div>
 
 <div align="center"> 
