@@ -55,12 +55,3 @@ https://raw.githubusercontent.com/moaskary/moaskary/output/github-contribution-g
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/moaskary/moaskary/blob/output/github-contribution-grid-snake.gif" />
-  
-  
-  <br/><br/><br/>
-</div>
