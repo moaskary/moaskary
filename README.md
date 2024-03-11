@@ -26,6 +26,8 @@ Here are some ideas to get you started:
  🔭 I’m currently seeking a software engineer role
  
  🌱 I’m currently learning **Swift, SwiftUI**
+ 
+ ⚡ **It’s all 0’s and 1’s**
 
  </div>
 
