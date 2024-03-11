@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,git,github,Xcode,andriodStudio,VMwareWorkstationPro,leetcode,microsoftVisualStudio" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,git,github,Xcode,andriodStudio" />
   <br>
     <img src="https://skillicons.dev/icons?i=java,javascript,swift,firebase,c" /><br>
 </div>
