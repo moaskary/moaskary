@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=moaskary&show_icons=true&theme=github_dark&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=moaskary&show_icons=github&theme=github_dark&count_private=true" />
 </div>
 
 <br/><br/>
