@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 
 <div align="center"> 
   <a href="mailto:mohamadabuabbass@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="http://linkedin.com/in/mohamad-abu-abbas-8b9b78248" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-    <a href="mailto:mohamadabuabbass@gmail.com">
+    <a href="https://www.instagram.com/_moaskari_?igsh=cHh5dHJiNGxwa3Bz&utm_source=qr">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </div>
