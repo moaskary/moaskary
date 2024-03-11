@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/moaskary/moaskary/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/moaskary/moaskary/blob/output/github-contribution-grid-snake.gif" />
+  
   
   <br/><br/><br/>
 </div>
