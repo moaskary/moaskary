@@ -38,6 +38,9 @@ Here are some ideas to get you started:
   <a href="http://linkedin.com/in/mohamad-abu-abbas-8b9b78248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    <a href="mailto:mohamadabuabbass@gmail.com">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 
