@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,git,Xcode,andriodStudio,VMwareWorkstationPro" />
-    <img src="https://skillicons.dev/icons?i=java,javascript,swift,firebase,c,c#" /><br>
+  <br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,swift,firebase,c" /><br>
 </div>
 
 <br/>
