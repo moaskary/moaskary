@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </div>
 
 
- <hr/>
+ 
  
 <h2 align="center">Languages-Frameworks-Tools👨🏻‍💻</h2>
 <br/>
