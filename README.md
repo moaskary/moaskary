@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 </h1>
 <h3 align="center">A passionate software engineer from 🇱🇧</h3>
 <br/>
-
+<script type="module" src="https://unpkg.com/@splinetool/viewer/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/LEvjG3OETYd2GsRw/scene.splinecode"></spline-viewer>
+<br/>
 <div align="center">
  
  🔭 I’m currently seeking a software engineer role
