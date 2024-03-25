@@ -81,6 +81,6 @@ Here are some ideas to get you started:
 <hr/>
 
 <br/>
-<script type="module" src="https://unpkg.com/@splinetool/viewer/build/spline-viewer.js"></script>
+<script type="README" src="https://unpkg.com/@splinetool/viewer/build/spline-viewer.js"></script>
 <spline-viewer url="https://prod.spline.design/fJ2ptJKzT-sDkpfO/scene.splinecode" background="#E0F0FF"></spline-viewer>
 
