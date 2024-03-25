@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script type="module" src="https://unpkg.com/@splinetool/viewer/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/PBQQBw8bfXDhBo7w/scene.splinecode" events-target="global"></spline-viewer>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Abu+Abbas!;+A+CS+graduate+⚡;" />
 </h1>
 <h3 align="center">A passionate software engineer from 🇱🇧</h3>
 <br/>
-<script type="module" src="https://unpkg.com/@splinetool/viewer/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/LEvjG3OETYd2GsRw/scene.splinecode"></spline-viewer>
-<br/>
+
 <div align="center">
  
  🔭 I’m currently seeking a software engineer role
