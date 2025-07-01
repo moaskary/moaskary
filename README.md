@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,react,vscode,git,github,flutter,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=java,javascript,swift,firebase,c,python" /><br>
+    <img src="https://skillicons.dev/icons?i=java,typescript,swift,firebase,c,python" /><br>
 </div>
 
 <br/>
