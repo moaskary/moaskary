@@ -25,9 +25,9 @@ Here are some ideas to get you started:
  
  🔭 I’m currently seeking a software engineer role
  
- 🌱 I’m currently learning **FLUTTER**
+ 🌱  write code. I build things. I break them to **learn more.**
  
- ⚡ **It’s all 0’s and 1’s**
+ ⚡ **Powered by curiosity, 0’s and 1’s, and strong ☕️**
 
  </div>
 
