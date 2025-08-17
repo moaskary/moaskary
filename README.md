@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <h2 align="center">Languages-Frameworks-Tools👨🏻‍💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,react,vscode,git,github,flutter,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=java,typescript,swift,firebase,c,python" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,apache airflow,vscode,git,github,prefect,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,sql,postgresql,pandas,firebase" /><br>
 </div>
 
 <br/>
