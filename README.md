@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <h2 align="center">Languages-Frameworks-Tools👨🏻‍💻</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,vscode,git,github,ci/cd,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,vscode,git,github,docker,dockercompose" /><br>
     <img src="https://skillicons.dev/icons?i=java,python,postgresql,firebase" /><br>
 </div>
 
