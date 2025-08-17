@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently seeking a software engineer role
+ 🔭 I’m currently seeking a data engineer role
  
  🌱  write code. I build things. I break them to **learn more.**
  
