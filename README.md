@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Abu+Abbas!;+A+Software+Engineer+⚡;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Abu+Abbas!;+A+Data+Engineer+⚡;" />
 </h1>
-<h3 align="center">A passionate software engineer from 🇱🇧</h3>
+<h3 align="center">A passionate Data Engineer from 🇱🇧</h3>
 <br/>
 
 <div align="center">
