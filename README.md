@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently seeking a data engineer role
+ 🔭 I’m currently seeking a **Data engineer** role
  
- 🌱  write code. I build things. I break them to **learn more.**
+ 🌱  I move data. I shape pipelines. I turn **chaos into insight**.
  
  ⚡ **Powered by curiosity, 0’s and 1’s, and strong ☕️**
 
