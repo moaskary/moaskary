@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamad+Abu+Abbas!;+A+Data+Engineer+⚡;" />
 </h1>
-<h3 align="center">A passionate Data Engineer from 🇱🇧</h3>
+<h3 align="center">A passionate Network Engineer from 🇱🇧</h3>
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently seeking a **Data engineer** role
+ 🔭 I’m currently seeking a **Network engineer** role
  
- 🌱  I move data. I shape pipelines. I turn **chaos into insight**.
+ 🌱  I turn **chaos into insight**.
  
  ⚡ **Powered by curiosity, 0’s and 1’s, and strong ☕️**
 
